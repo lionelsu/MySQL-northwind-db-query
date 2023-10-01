@@ -7,7 +7,7 @@ O "Northwind Database" é um esquema de banco de dados usado para fins educacion
 
 ## Pré-Requisitos
 
-O esquema de banco de dados precisa de uma ferramenta de gerenciamento de sua preferencia, este dev usou o MySQL Workbench, um ambiente Docker ou o MySQL Server.
+O esquema de banco de dados precisa de uma ferramenta de gerenciamento de sua preferencia, este dev usou o `MySQL Workbench` e um ambiente `Docker` ou o `MySQL Server`.
 
 - [Docker](https://docs.docker.com/compose/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
