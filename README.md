@@ -34,6 +34,17 @@ Este comando já inicializa o `northwind.sql` no servidor de banco de dados `MyS
 - Sem o docker:
   - execute o script MySQL localizado na pasta `db`
 
+## Mais informações
+
+Variáveis de ambiente dentro do container
+
+```
+MYSQL_USER: root
+MYSQL_PASSWORD: password
+HOSTNAME: db
+MYSQL_PORT: 3306
+```
+
 ## Habilidades desenvolvidas
 
 - Encontrar dados com `SELECT`.
